@@ -4,8 +4,6 @@
 #include "firewall.hpp"
 #include "log.hpp"
 
-#include <boost/spirit/include/qi.hpp>
-
 
 using namespace std;
 
@@ -22,10 +20,6 @@ int main() {
 		Firewall fw(manager);
 		string choice;
 
-	
-		manager.parseACE("100 in deny tcp 192.168.100.118/32  any flags established");
-		manager.parseACE("102 both permit tcp any any");
-		manager.parseACE("105 both permit udp any any");
 	
 
 		while (true) {

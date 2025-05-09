@@ -1,0 +1,147 @@
+[2025-05-09 08:33:04.767] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:33:17.047] [warning] [APP] [Dropped] TCP packet 192.168.100.118:38880 -> 185.199.110.154:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:33:26.262] [warning] [APP] [Dropped] TCP packet 192.168.100.118:55218 -> 140.82.112.25:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:17.270] [warning] [APP] [Dropped] TCP packet 192.168.100.118:32918 -> 140.82.113.21:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:17.270] [warning] [APP] [Dropped] TCP packet 192.168.100.118:32886 -> 140.82.113.21:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:17.327] [warning] [APP] [Dropped] TCP packet 192.168.100.118:32926 -> 140.82.113.21:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.035] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.254] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.470] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.547] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.548] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.582] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.806] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:20.894] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:21.246] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:21.750] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:22.134] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.391] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.454] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.464] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.478] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.614] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.838] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.902] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:23.927] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:24.278] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:24.351] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:25.206] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:25.270] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:26.871] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:26.998] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:27.062] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:27.447] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:28.517] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:28.741] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:28.965] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:29.404] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:30.325] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:30.519] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:30.646] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:32.117] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:32.630] [warning] [APP] [Dropped] TCP packet 192.168.100.118:32950 -> 140.82.113.21:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:33.654] [warning] [APP] [Dropped] TCP packet 192.168.100.118:50026 -> 162.159.133.234:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:34.019] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:34.679] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54646 -> 20.205.243.168:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:35.637] [warning] [APP] [Dropped] TCP packet 162.159.133.234:443 -> 192.168.100.118:50026 -- reason: No matching ACEIP source mismatch packet src: 162.159.133.234 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:37.750] [warning] [APP] [Dropped] TCP packet 192.168.100.118:49100 -> 20.205.243.166:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:37.750] [warning] [APP] [Dropped] TCP packet 192.168.100.118:52672 -> 140.82.112.22:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:40.995] [warning] [APP] [Dropped] TCP packet 140.82.112.25:443 -> 192.168.100.118:55218 -- reason: No matching ACEIP source mismatch packet src: 140.82.112.25 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:41.482] [warning] [APP] [Dropped] TCP packet 140.82.112.25:443 -> 192.168.100.118:55218 -- reason: No matching ACEIP source mismatch packet src: 140.82.112.25 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:41.958] [warning] [APP] [Dropped] TCP packet 140.82.112.25:443 -> 192.168.100.118:55218 -- reason: No matching ACEIP source mismatch packet src: 140.82.112.25 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:42.918] [warning] [APP] [Dropped] TCP packet 140.82.112.25:443 -> 192.168.100.118:55218 -- reason: No matching ACEIP source mismatch packet src: 140.82.112.25 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:44.810] [warning] [APP] [Dropped] TCP packet 140.82.112.25:443 -> 192.168.100.118:55218 -- reason: No matching ACEIP source mismatch packet src: 140.82.112.25 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:45.409] [warning] [APP] [Dropped] TCP packet 20.205.243.168:443 -> 192.168.100.118:54646 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.168 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:45.548] [warning] [APP] [Dropped] TCP packet 20.205.243.166:443 -> 192.168.100.118:49100 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.166 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:45.628] [warning] [APP] [Dropped] TCP packet 20.205.243.168:443 -> 192.168.100.118:54646 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.168 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:45.761] [warning] [APP] [Dropped] TCP packet 20.205.243.166:443 -> 192.168.100.118:49100 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.166 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:45.847] [warning] [APP] [Dropped] TCP packet 20.205.243.168:443 -> 192.168.100.118:54646 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.168 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:45.977] [warning] [APP] [Dropped] TCP packet 20.205.243.166:443 -> 192.168.100.118:49100 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.166 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:46.119] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54290 -> 20.52.64.201:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:46.311] [warning] [APP] [Dropped] TCP packet 20.205.243.168:443 -> 192.168.100.118:54646 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.168 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:46.409] [warning] [APP] [Dropped] TCP packet 20.205.243.166:443 -> 192.168.100.118:49100 -- reason: No matching ACEIP source mismatch packet src: 20.205.243.166 , ACE src: 192.168.100.118 /255.255.255.255
+Established check failed (invalid ACK/RST was sent)
+
+[2025-05-09 08:36:46.478] [warning] [APP] [Dropped] TCP packet 192.168.100.118:54290 -> 20.52.64.201:443 -- reason: No matching ACEEstablished check failed (invalid ACK/RST was sent)
+
